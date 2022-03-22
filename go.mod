@@ -1,4 +1,4 @@
-module github.com/avinashdasigi/mysql
+module github.com/avinashdasigi/go
 
 go 1.17
 
